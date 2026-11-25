@@ -12,7 +12,7 @@ Hi! I'm **Jovan Ismail**, an Information Systems undergraduate focusing on Softw
 * **Interactive Showcase:** Categorized tabs for skills, tools, certificates, and featured projects.
 
 ### Tech Stack
-HTML5 • CSS3 • JavaScript • Bootstrap 5
+HTML • CSS • JavaScript • Bootstrap 
 
 ### Contact
 * **Email:** ji.jovanismail@gmail.com
