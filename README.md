@@ -1,6 +1,6 @@
 # Personal Web Developer Portfolio
 
-> **Live Demo:** https://jovanismail.github.io/Portfolio/
+> **Live Demo:** https://jovanismail.github.io/portfolio/
 
 ![Portfolio Preview](Developer_Portfolio.png)
 
@@ -8,7 +8,7 @@ Hi! I'm **Jovan Ismail**, an Information Systems undergraduate focusing on Softw
 
 ### Key Features
 * **Dark/Light Mode:** Dynamic theme switcher saved with `localStorage`.
-* **Responsive UI:** Clean, modern layout built with HTML5, CSS3, Bootstrap 5, and JavaScript.
+* **Responsive UI:** Clean, modern layout built with HTML, CSS, Bootstrap , and JavaScript.
 * **Interactive Showcase:** Categorized tabs for skills, tools, certificates, and featured projects.
 
 ### Tech Stack
